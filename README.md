@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projek Manajemen Proyek Kelompok B5
 
 Requirement :
@@ -18,3 +19,6 @@ Start backend sendiri :
 
 Start frontend sendiri :
 1. npm run start:front
+=======
+# Canvax-AI-Photo-to-Painting-Web-App-in-Monet-Van-Gogh-and-C-zanne-Styles
+>>>>>>> de4435b31871b5375fade9671015cdf0a10ff155
